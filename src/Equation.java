@@ -1,0 +1,2 @@
+public class Eqution {
+}
